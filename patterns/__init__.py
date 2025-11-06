@@ -1,0 +1,1 @@
+"""Pattern detection module"""
